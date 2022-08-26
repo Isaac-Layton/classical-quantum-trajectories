@@ -2,7 +2,7 @@
 Basic code to simulate the trajectories of interacting classical and quantum systems
 
 ## Overview
-Code and comments in Jupyter notebook format to simulate the toy models found in [https://arxiv.org/abs/XXXXX](https://arxiv.org/abs/XXXXX)
+Code and comments in Jupyter notebook format to simulate the toy models found in [https://arxiv.org/abs/2208.11722](https://arxiv.org/abs/2208.11722)
  
 Toy models include:
 1. a linear interaction 
