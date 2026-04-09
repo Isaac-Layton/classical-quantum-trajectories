@@ -1,7 +1,7 @@
 # Classical-Quantum Trajectories
 Basic code to simulate the trajectories of interacting classical and quantum systems
 
-Updated to include simulatations of thermal classical-quantum systems.
+Updated to include simulations of thermal classical-quantum systems.
 
 ## Overview
 Code and comments in Jupyter notebook format to simulate the toy models found in [https://arxiv.org/abs/2208.11722](https://arxiv.org/abs/2208.11722) and generate plots found in  https://arxiv.org/abs/2504.10587.
